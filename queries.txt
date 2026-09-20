@@ -1,0 +1,23 @@
+?- father(abdulkaleq, ali).
+true.
+
+?- father(abdulkaleq, noor).
+true.
+
+?- mother(fatima, ali).
+true.
+
+?- mother(fatima, hanin).
+true.
+
+?- sister(noor, ali).
+true.
+
+?- sister(gadeer, mohammed).
+true.
+
+?- brother(ali, noor).
+true.
+
+?- brother(mohammed, maryam).
+true.
