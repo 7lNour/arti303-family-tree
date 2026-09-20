@@ -1,4 +1,3 @@
-% Family Tree Knowledge Base
 
 % Facts
 male(abdulkaleq).
